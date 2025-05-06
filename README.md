@@ -59,4 +59,5 @@ Demonstrates effective integration of sensors, microcontrollers, and IoT cloud s
 
 ## Conclusion
 The IoT-Based Home Security System successfully shows how low-cost, easily accessible technology can enhance home safety. It integrates motion detection with wireless communication, allowing users to stay informed and responsive to suspicious activity, even while away from home. The project lays the groundwork for future enhancements such as live video feeds, facial recognition, or integration with smart locks.
-![Screenshot (51)](https://github.com/user-attachments/assets/8c3b06cf-3c5f-40b4-ad4d-1fd0d2cf72fb)
+![Screenshot (53)](https://github.com/user-attachments/assets/ffd9d56b-edb8-4fdd-9148-baa23da0b5fb)
+
